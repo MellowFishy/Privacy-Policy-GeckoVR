@@ -1,0 +1,1 @@
+I collect data through PlayFab, I have never used anyone's information against them. PlayFab collects the data, I use the data in my scripts.
